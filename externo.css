@@ -1,0 +1,21 @@
+body{
+    background-color: #f8f8f8;
+}
+*{
+    font-family: Arial;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+}
+li{
+    width: 350px;
+    height: 175px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    border: groove 2px rgb(86, 213, 255);
+}
+a{
+    font-size: 40px;
+}
